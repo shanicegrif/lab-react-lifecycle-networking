@@ -42,7 +42,7 @@ You _should not_ change the overall component hierarchy in this application. How
 
 ### Using the API
 
-Your instructor will give you the URL for the API you will be accessing. There will be two endpoints you will need to hit.
+Our class server is hotsed on a service called Render at the following url: https://one0-2-vet-api.onrender.com
 
 #### `/api/employees`
 
